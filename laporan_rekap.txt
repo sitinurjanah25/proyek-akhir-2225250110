@@ -1,0 +1,14 @@
+=== LAPORAN REKAPITULASI NILAI MATEMATIKA ===
+Total Siswa Valid : 5
+Rata-Rata Kelas   : 73.80
+Nilai Tertinggi   : 92.0
+Nilai Terendah    : 58.0
+
+--- SISWA TUNTAS (>= 60) : 4 Siswa ---
+- Ayu: 85.0
+- Citra: 92.0
+- Deni: 60.0
+- Eka: 74.0
+
+--- SISWA BELUM TUNTAS (< 60) : 1 Siswa ---
+- Budi: 58.0
