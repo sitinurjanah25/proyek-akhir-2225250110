@@ -1,0 +1,5 @@
+Ayu,85
+Budi,58
+Citra,92
+Deni,60
+Eka,74
